@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HabitTrackerApp</string>
+    <string name="test_habit">Test Habit</string>
+    <string name="text_view">Text View</string>
+    <string name="contains">Base contains</string>
+    <string name="enties">enties</string>
 </resources>

@@ -11,7 +11,6 @@ public final class HabitContract {
     public HabitContract() {
     }
 
-
     public static final class HabitEntry implements BaseColumns {
 
 
